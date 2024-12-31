@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Lucca Magnino!  
 
-<!--
-**LuccaMagnino/LuccaMagnino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at Federal University of Goiás (UFG), 2nd semester.  
+🌟 Passionate about **Artificial Intelligence**, **Databases**, and **Cybersecurity**.  
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools I'm Learning:  
+- **Programming Languages**: C, Java, Python  
+- **Other Interests**: Exploring algorithms (A.I), software development, and data security.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats:  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+
+## 🚀 Looking For:  
+💡 Opportunities to apply my knowledge through internships.  
+📚 Ways to learn and grow in my favorite fields.  
+
+## 📫 Connect with me:  
+- Email: luccamagnino@discente.ufg.br  
+- LinkedIn: https://www.linkedin.com/in/lucca-magnino-a1b294280/
