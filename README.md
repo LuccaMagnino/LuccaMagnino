@@ -7,10 +7,6 @@
 - **Programming Languages**: C, Java, Python  
 - **Other Interests**: Exploring algorithms (A.I), software development, and data security.  
 
-## 📈 GitHub Stats:  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
-
 ## 🚀 Looking For:  
 💡 Opportunities to apply my knowledge through internships.  
 📚 Ways to learn and grow in my favorite fields.  
